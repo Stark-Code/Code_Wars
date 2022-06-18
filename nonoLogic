@@ -1,0 +1,8 @@
+Initialize Values
+Search rows for 4s - if a 4 is found - mark 3 center squares
+search cols for 4s - if a 4 is found - mark 3 center squares
+search rows for 3s - if a 3 is found - mark center sqaure
+search cols for 3s - if a 3 is found - mark center square
+Strike board
+Search rows - If a single clue is found - find marked spots - check for multiple solutions - if one solution - mark
+If a single row is found and it can only go in one area - mark

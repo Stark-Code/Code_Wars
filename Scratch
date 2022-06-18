@@ -1,0 +1,22 @@
+210, 3 > 81 solutions
+
+210 > 2, 3, 5, 7
+
+1, 2, 3, 5, 7
+120 permutations of this list
+4()2 > 12 ways to distribute this list into 3 sets
+
+2, 3, 5, 7
+24 permutations of this list
+3()2 3 ways to distributes
+72 + 5edge case + 4 numbers?
+
+2, 2, 2, 3, 5 = 120
+120 permutations
+4()2 12 ways to distribute
+120 * 12 = 1440
+
+1, 2, 2, 2, 3, 5 = 120
+720 permutations
+5()2 12 ways to distribute
+720 * 60 = 43200

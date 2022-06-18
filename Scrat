@@ -1,0 +1,7 @@
+C, , , ,
+ , ,C, ,
+ ,C, , ,
+
+# Calculate distance of each coin, to each node
+# Add values of each coin distance to node
+# Choose minimum
