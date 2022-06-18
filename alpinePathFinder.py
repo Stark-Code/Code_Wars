@@ -13,8 +13,6 @@ def enablePrint():
 
 # blockPrint()
 
-global alpineGraph, q, distanceDict, prevNode, visited
-
 
 class priorityQueue:  # Min Heap
     def __init__(self):
@@ -175,7 +173,7 @@ def dijkstras(end, maze):  # alpineGraph, q, distanceDict, prevNode, visited
     print(f"prevNode: {prevNode}")
     return prevNode
 
-
+global alpineGraph, q, distanceDict, prevNode, visited
 def path_finder(maze):
     maze = buildMaze(maze)
     start = '0-0'
