@@ -1,6 +1,6 @@
 import time
 import math
-import memory_profiler as mem_profile
+# import memory_profiler as mem_profile
 
 
 def eratosthenesSieve(limit):
